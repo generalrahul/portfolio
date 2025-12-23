@@ -3,7 +3,7 @@
 A professional, responsive portfolio website built with **React** and **Vite**, featuring a premium dark aesthetic and smooth animations.
 
 ## 🚀 Live Demo
-Hosted on Netlify. (Add your Netlify URL here if you wish)
+[Hosted on Netlify.](https://iamrahuljha.netlify.app/)
 
 ## 🛠️ Tech Stack
 -   **Frontend**: React (v18), Vite
